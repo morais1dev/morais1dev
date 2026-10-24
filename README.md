@@ -33,16 +33,6 @@ Uma alternativa ao MP3Tag com interface moderna. A ideia surgiu da vontade de de
 
 ---
 
-### 📁 Outros projetos
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [AlibabotProject](https://github.com/MoraisGustavo1/AlibabotProject) | Site com back-end próprio | PHP · HTML · SCSS · Bootstrap |
-| [DominoPontaDeQuina](https://github.com/morais1dev/DominoPontaDeQuina_Atividade_CSharp) | Jogo de dominó | C# |
-| [ADOLab](https://github.com/morais1dev/ADOLab_Atividade) | Acesso a dados com ADO.NET | C# |
-
----
-
 ### 🛠️ Linguagens e ferramentas
 
 <p align="left">
@@ -50,10 +40,3 @@ Uma alternativa ao MP3Tag com interface moderna. A ideia surgiu da vontade de de
 </p>
 
 ---
-
-### 📊 Estatísticas
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=morais1dev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoraisGustavo1&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="top langs"/>
-</p>
